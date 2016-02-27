@@ -1,3 +1,3 @@
 # Personal-Portfolio
 
-The new versrion of my website
+The new version of my website
